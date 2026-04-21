@@ -1,8 +1,4 @@
 # LinkedIn® Profile Previewer
-![alt text](Readme/ThumbnailProfilePreviewer.png)
-![alt text](Readme/SmallLight.png)  |![alt text](Readme/SmallDark.png)
-------------- | -------------
-Light Mode on small screen | Dark mode on small screen
 
 ## ⌨️ Technology + Assets stack
 HTML / SASS + SCSS / React / Vite / npm / Node.js / Netlify 
